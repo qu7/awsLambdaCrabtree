@@ -1,0 +1,3 @@
+com\amazonaws\lambda\demo\CommonWords.class
+com\amazonaws\lambda\demo\SaveToDb.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
